@@ -2,11 +2,11 @@
 
 int main(int argc, char** argv){
 	
-	cout<<"Univerdad nacional" 
-        "\nSede Regional Brunca" 
-        "\nProgamacion 1"
-        "\nKevin Arauz Jimenez"
-        "\nProfesor: Alejandro Flores Quesada" 
+	cout<<"" 
+        "\n" 
+        "\n"
+        "\n"
+        "\nProfesor:" 
         "\n\n"
 	<<endl; 	
 	
